@@ -1,0 +1,14 @@
+#body{
+    background-color: black;
+    height: 97vh;
+    width: 99vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#sharedIframe{
+    height: 100%;
+    width: 100%;
+
+}
